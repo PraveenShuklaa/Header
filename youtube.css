@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+table{
+    width: 100%;
+}
+i{
+    padding: 10px;
+}
+.menu{
+    font-size: 20px;
+}
+td h2{
+    font-family: fantasy;
+    font-weight: 100;
+    display: inline;
+    font-size: 22px;
+    margin-left: -12px;
+    font-variant: small-caps;
+    color: #2d2c2c;
+}
+tr{
+    height: 50px;
+}
+td h2 sup{
+    font-size: 10px;
+}
+.logo{
+    color: #f12b2b;
+    font-size: 25px;
+}
+.search{
+    text-align: center;
+}
+.tdlogo{
+    width: 15%;
+}
+input{
+    color: #888484;
+    line-height: 25px;
+    box-shadow: 0px 0px 0px black;
+    padding: 0px 10px;
+    width: 60%;
+}
+.ricon{
+    width: 4%;
+    font-size: 25px;
+    color: #282928;
+}
+a{
+    margin-left: 20px;
+    font-size: 20px;
+}

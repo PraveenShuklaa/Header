@@ -1,0 +1,52 @@
+body{
+    margin: auto 0px;
+}
+header{
+    border: 1px solid #dfdfdf;
+}
+table{
+    width: 100%;
+}
+a{
+    margin-left: 20px;
+    font-size: 20px;
+}
+input{
+    height: 40px;
+    border-radius: 5px;
+    font-size: 13px;
+    padding-left: 10px;
+    width: 100%;
+}
+h3{
+    font-weight: 600;
+    font-family: monospace;
+    font-size: 17px;
+}
+p{
+    font-family: monospace;
+    margin: 0;
+    font-size: 12px;
+    font-weight: 700;
+}
+td{
+    text-align: center;
+}
+td.width{
+    width: 4%;
+}
+td.emwidth{
+    width: 16%;
+}
+td.dbwidth{
+    width: 23%;
+}
+td.smwidth{
+    width: 1%;
+}
+.sec-prof {
+    width: 16%;
+}
+.sec-em{
+    width: 10%;
+}
